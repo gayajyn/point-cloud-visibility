@@ -11,7 +11,7 @@
     - Red = not visible
     - Blue = observer
 
-Output: 
+**Output**: 
 - Open3D Visualizer window
 - "visibility.las"
 - "visibility.ply" (optional)
